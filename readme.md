@@ -2,6 +2,6 @@
 <br>
 <p style="center"><img src="https://i.imgur.com/ZyLdAw4.jpeg"></p>
 <p style="center">Features: Autowin</p>
-Script:
-```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Alpinecy/Slake-BNP/refs/heads/main/slake_bnp.lua"))()
+# Script:
+<br>
+<code>loadstring(game:HttpGet("https://raw.githubusercontent.com/Alpinecy/Slake-BNP/refs/heads/main/slake_bnp.lua"))()</code>

@@ -5,4 +5,3 @@
 Script:
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Alpinecy/Slake-BNP/refs/heads/main/slake_bnp.lua"))()
-```
